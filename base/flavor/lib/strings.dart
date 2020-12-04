@@ -1,0 +1,1 @@
+const flavorName = "Base project";

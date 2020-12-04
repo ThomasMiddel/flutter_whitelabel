@@ -1,0 +1,22 @@
+name: mcdonalds
+description: A new Flutter application.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  base:
+    path: ../base
+
+dependency_overrides:
+  flavor:
+    path: flavor
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
