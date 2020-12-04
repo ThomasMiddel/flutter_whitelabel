@@ -1,1 +1,0 @@
-const flavorName = "McDonalds";

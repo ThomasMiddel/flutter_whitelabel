@@ -3,4 +3,11 @@ description: Flavor for Clients.
 version: 1.0.0
 
 environment:
-  sdk: ">=2.2.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  base:
+    path: ../../base
